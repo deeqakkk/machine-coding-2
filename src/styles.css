@@ -1,0 +1,22 @@
+.topbar-container{
+  display: flex;
+  margin: 24px;
+}
+
+.topbar-container img{
+  margin-right: 10px;
+}
+
+.topbar-container input{
+ height: 30px;
+ padding: 8px 15px
+}
+
+.topbar-container button{
+  margin-left: 10px;
+  padding: 8px 15px;
+  height: 48px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
